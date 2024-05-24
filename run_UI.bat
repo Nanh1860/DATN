@@ -1,0 +1,1 @@
+conda activate datn && cd F:\University\Ki_8\DATN && streamlit run UI.py

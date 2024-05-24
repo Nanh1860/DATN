@@ -1,0 +1,1 @@
+conda activate datn && cd F:\University\Ki_8\DATN\text_detector\PaddleOCR && python tools/infer/predict_det.py && cd F:\University\Ki_8\DATN\rotation_corrector && python inference.py && cd F:\University\Ki_8\DATN\text_classifier && python pred_ocr.py && cd F:\University\Ki_8\DATN\key_info_extraction\PICK && python test.py
