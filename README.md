@@ -1,1 +1,1 @@
-DƯƠNG NGỌC ANH - K15 - CNTT01 - 2020600274 - ĐỒ ÁN TỐT NGHIỆP
+Using PICK model
